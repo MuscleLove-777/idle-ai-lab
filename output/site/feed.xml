@@ -5,7 +5,7 @@
     <link>https://musclelove-777.github.io/idle-ai-lab/</link>
     <description>BlueStacks・Python・OpenCV・YOLO等で放置ゲームを自動化する技術メディア。エンジニア兼ゲーマー向けに、コード片・規約面の検討・VPS構成までを実践解説。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Apr 2026 19:48:55 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 10:03:24 +0900</lastBuildDate>
     <atom:link href="https://musclelove-777.github.io/idle-ai-lab//feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>格安VPSで24時間放置ゲーム自動化</title>
@@ -13,7 +13,7 @@
       <guid>https://musclelove-777.github.io/idle-ai-lab//articles/vps24.html</guid>
       <description></description>
       <category>VPS / 24時間放置運用</category>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0900</pubDate>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>VPS放置ゲーム自動化セットアップ完全ガイド</title>
@@ -21,7 +21,15 @@
       <guid>https://musclelove-777.github.io/idle-ai-lab//articles/vps.html</guid>
       <description></description>
       <category>VPS / 24時間放置運用</category>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0900</pubDate>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>VPS 24時間放置ゲーム 推奨スペック完全ガイド</title>
+      <link>https://musclelove-777.github.io/idle-ai-lab//articles/vps-24.html</link>
+      <guid>https://musclelove-777.github.io/idle-ai-lab//articles/vps-24.html</guid>
+      <description></description>
+      <category>VPS / 24時間放置運用</category>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
